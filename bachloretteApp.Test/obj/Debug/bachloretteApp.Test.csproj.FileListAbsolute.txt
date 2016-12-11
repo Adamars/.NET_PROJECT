@@ -1,0 +1,6 @@
+D:\Facultate anul 3\DotNET\.NET_PROJECT\bachloretteApp.Test\bin\Debug\bachloretteApp.Test.dll
+D:\Facultate anul 3\DotNET\.NET_PROJECT\bachloretteApp.Test\bin\Debug\bachloretteApp.Test.pdb
+D:\Facultate anul 3\DotNET\.NET_PROJECT\bachloretteApp.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Facultate anul 3\DotNET\.NET_PROJECT\bachloretteApp.Test\obj\Debug\bachloretteApp.Test.csprojResolveAssemblyReference.cache
+D:\Facultate anul 3\DotNET\.NET_PROJECT\bachloretteApp.Test\obj\Debug\bachloretteApp.Test.dll
+D:\Facultate anul 3\DotNET\.NET_PROJECT\bachloretteApp.Test\obj\Debug\bachloretteApp.Test.pdb
