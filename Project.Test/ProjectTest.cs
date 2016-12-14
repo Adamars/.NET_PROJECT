@@ -14,7 +14,7 @@ namespace Project.Test
             repo = new TeacherRepository();
         }
         [TestMethod]
-        public void IsRepositoryInitializedWhitValidNumberOfData() {
+        public void WhenRepositoryIsInitialized_ThenGetTeachers_ShoulReturnNotNullResult() {
             repo.Add(new core.Teacher
             {
                 TeacherFirstName = "x",
