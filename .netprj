@@ -1,0 +1,14 @@
+Salutare, in primul rând va rog sa va decideți ce source control folosiți. 
+Apoi, pentru ca este mandatory, va trebui sa va faceți structura proiectului.
+O aplicație layered cu cel puțin 4 proiecte: data layer, business layer, API layer si presentation layer.
+Adăugați referințele corespunzătoare. 
+Apoi va Creați cel puțin 3 proiecte pentru unit teste. Crezi ca e suficient? 
+
+Pentru laboratoarele de saptamana viitoare:
+1. vom construi arhitectura aplicatiei
+2. vom defini backlog-ul (cei care au echipele formate vom trebui sa creaze PBI-uri -> Product backlog item => discutam maine cum se fac acestea)
+3. vom incepe sa definim modele
+4. vom stabili source controlul folosit si drepturile de access
+Arhitectura pe care o vom folosi toti este: Onion. Detalii teoretice si tehnice gasiti aici:
+https://debugmode.net/…/step-by-step-implementing-onion-ar…/
+Aceasta structura trebuie trecuta pe .NET Core.

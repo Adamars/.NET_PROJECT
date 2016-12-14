@@ -1,0 +1,7 @@
+C:\Users\acasa\Desktop\cristina\anul3\net\project\Project.Test\bin\Debug\Project.Test.dll
+C:\Users\acasa\Desktop\cristina\anul3\net\project\Project.Test\bin\Debug\Project.Test.pdb
+C:\Users\acasa\Desktop\cristina\anul3\net\project\Project.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\acasa\Desktop\cristina\anul3\net\project\Project.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\acasa\Desktop\cristina\anul3\net\project\Project.Test\obj\Debug\Project.Test.csprojResolveAssemblyReference.cache
+C:\Users\acasa\Desktop\cristina\anul3\net\project\Project.Test\obj\Debug\Project.Test.dll
+C:\Users\acasa\Desktop\cristina\anul3\net\project\Project.Test\obj\Debug\Project.Test.pdb
