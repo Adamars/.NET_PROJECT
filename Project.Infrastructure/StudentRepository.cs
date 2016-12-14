@@ -9,14 +9,21 @@ namespace Project.Infrastructure
 {
     public class StudentRepository : IStudentRepository
     {
+        StudentContext context = new StudentContext();
         public void Add(Student student)
         {
-            throw new NotImplementedException();
+            context.Students.Add(student);
         }
 
         public void Edit(Student student)
         {
-            throw new NotImplementedException();
+            var toUpdate = context.Students.FirstOrDefault(t => t.StudentId == student.StudentId);
+            toUpdate.StudentFirstName = student.StudentFirstName;
+            toUpdate.StudentLastName = student.StudentLastName;
+            toUpdate.MeanA1 = student.MeanA1;
+            toUpdate.MeanA2 = student.MeanA2;
+            toUpdate.Preferences = student.Preferences;
+            context.SaveChanges();
         }
 
         public Student FindById(string studentID)
@@ -24,14 +31,23 @@ namespace Project.Infrastructure
             throw new NotImplementedException();
         }
 
+        public Student FindById(int studentId)
+        {
+            var student = (from s in context.Students where s.StudentId.Equals(studentId) select s).FirstOrDefault();
+            return student;
+
+        }
+
         public IEnumerable<Student> GetStudents()
         {
-            throw new NotImplementedException();
+            return context.Students;
         }
 
         public void Remove(int studentID)
         {
-            throw new NotImplementedException();
+            Student student = (from s in context.Students where s.StudentId.Equals(studentID) select s).FirstOrDefault();
+            context.Students.Remove(student);
+            context.SaveChanges();
         }
     }
 }
