@@ -14,8 +14,11 @@ namespace Project.core
         [MaxLength(100)]
         public string StudentLastName { get; set; }
         [Required]
-        [MaxLength(100)]
+        [DataType(DataType.Password)]
+        public string Password { get; set; }
+        [Required]
         public double MeanA1 { get; set; }
+        [Required]
         public double MeanA2 { get; set; }
         [Required]
         [MaxLength(100)]

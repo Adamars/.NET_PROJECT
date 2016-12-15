@@ -14,6 +14,9 @@ namespace Project.core
         [MaxLength(100)]
         public string TeacherLastName { get; set; }
         [Required]
+        [DataType(DataType.Password)]
+        public string Password { get; set; }
+        [Required]
         [MaxLength(100)]
         public int Avaible { get; set; }
     }

@@ -1,5 +1,5 @@
---temp-output:C:\Users\Mihai Petrea\Desktop\project\Project.core\obj\Debug\net461\
---out:C:\Users\Mihai Petrea\Desktop\project\Project.core\bin\Debug\net461\Project.core.dll
+--temp-output:D:\Facultate anul 3\DotNET\.NET_PROJECT-CristinaHoamea\SecPrj\Project.core\obj\Debug\net461\
+--out:D:\Facultate anul 3\DotNET\.NET_PROJECT-CristinaHoamea\SecPrj\Project.core\bin\Debug\net461\Project.core.dll
 --define:DEBUG
 --define:TRACE
 --define:NET461
@@ -12,26 +12,26 @@
 --version:1.0.0.0
 --informational-version:1.0.0
 --target-framework:.NETFramework,Version=v4.6.1
---reference:C:\Users\Mihai Petrea\.nuget\packages\Microsoft.Win32.Primitives\4.0.1\ref\net46\Microsoft.Win32.Primitives.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.AppContext\4.1.0\ref\net46\System.AppContext.dll
+--reference:C:\Users\Marian\.nuget\packages\Microsoft.Win32.Primitives\4.0.1\ref\net46\Microsoft.Win32.Primitives.dll
+--reference:C:\Users\Marian\.nuget\packages\System.AppContext\4.1.0\ref\net46\System.AppContext.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Collections.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Collections.Concurrent.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.ComponentModel.Annotations\4.1.0\ref\net461\System.ComponentModel.Annotations.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.Console\4.0.0\ref\net46\System.Console.dll
+--reference:C:\Users\Marian\.nuget\packages\System.ComponentModel.Annotations\4.1.0\ref\net461\System.ComponentModel.Annotations.dll
+--reference:C:\Users\Marian\.nuget\packages\System.Console\4.0.0\ref\net46\System.Console.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Diagnostics.Debug.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Diagnostics.Tools.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Diagnostics.Tracing.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Globalization.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.Globalization.Calendars\4.0.1\ref\net46\System.Globalization.Calendars.dll
+--reference:C:\Users\Marian\.nuget\packages\System.Globalization.Calendars\4.0.1\ref\net46\System.Globalization.Calendars.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.IO.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.IO.Compression\4.1.0\ref\net46\System.IO.Compression.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.IO.Compression.ZipFile\4.0.1\ref\net46\System.IO.Compression.ZipFile.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.IO.FileSystem\4.0.1\ref\net46\System.IO.FileSystem.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.IO.FileSystem.Primitives\4.0.1\ref\net46\System.IO.FileSystem.Primitives.dll
+--reference:C:\Users\Marian\.nuget\packages\System.IO.Compression\4.1.0\ref\net46\System.IO.Compression.dll
+--reference:C:\Users\Marian\.nuget\packages\System.IO.Compression.ZipFile\4.0.1\ref\net46\System.IO.Compression.ZipFile.dll
+--reference:C:\Users\Marian\.nuget\packages\System.IO.FileSystem\4.0.1\ref\net46\System.IO.FileSystem.dll
+--reference:C:\Users\Marian\.nuget\packages\System.IO.FileSystem.Primitives\4.0.1\ref\net46\System.IO.FileSystem.Primitives.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Linq.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Linq.Expressions.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Net.Primitives.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.Net.Sockets\4.1.0\ref\net46\System.Net.Sockets.dll
+--reference:C:\Users\Marian\.nuget\packages\System.Net.Sockets\4.1.0\ref\net46\System.Net.Sockets.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.ObjectModel.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Reflection.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Reflection.Extensions.dll
@@ -41,12 +41,12 @@
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Runtime.Extensions.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Runtime.Handles.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Runtime.InteropServices.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.Runtime.InteropServices.RuntimeInformation\4.0.0\ref\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll
+--reference:C:\Users\Marian\.nuget\packages\System.Runtime.InteropServices.RuntimeInformation\4.0.0\ref\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Runtime.Numerics.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.Security.Cryptography.Algorithms\4.2.0\ref\net461\System.Security.Cryptography.Algorithms.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.Security.Cryptography.Encoding\4.0.0\ref\net46\System.Security.Cryptography.Encoding.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.Security.Cryptography.Primitives\4.0.0\ref\net46\System.Security.Cryptography.Primitives.dll
---reference:C:\Users\Mihai Petrea\.nuget\packages\System.Security.Cryptography.X509Certificates\4.1.0\ref\net461\System.Security.Cryptography.X509Certificates.dll
+--reference:C:\Users\Marian\.nuget\packages\System.Security.Cryptography.Algorithms\4.2.0\ref\net461\System.Security.Cryptography.Algorithms.dll
+--reference:C:\Users\Marian\.nuget\packages\System.Security.Cryptography.Encoding\4.0.0\ref\net46\System.Security.Cryptography.Encoding.dll
+--reference:C:\Users\Marian\.nuget\packages\System.Security.Cryptography.Primitives\4.0.0\ref\net46\System.Security.Cryptography.Primitives.dll
+--reference:C:\Users\Marian\.nuget\packages\System.Security.Cryptography.X509Certificates\4.1.0\ref\net461\System.Security.Cryptography.X509Certificates.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Text.Encoding.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Text.Encoding.Extensions.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\System.Text.RegularExpressions.dll
@@ -62,8 +62,9 @@
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.ComponentModel.DataAnnotations.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.IO.Compression.FileSystem.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Net.Http.dll
-C:\Users\Mihai Petrea\Desktop\project\Project.core\Student.cs
-C:\Users\Mihai Petrea\Desktop\project\Project.core\Teacher.cs
-C:\Users\Mihai Petrea\Desktop\project\Project.core\Interfaces\IStudentRepository.cs
-C:\Users\Mihai Petrea\Desktop\project\Project.core\Interfaces\ITeacherRepository.cs
-C:\Users\Mihai Petrea\Desktop\project\Project.core\Properties\AssemblyInfo.cs
+D:\Facultate anul 3\DotNET\.NET_PROJECT-CristinaHoamea\SecPrj\Project.core\Student.cs
+D:\Facultate anul 3\DotNET\.NET_PROJECT-CristinaHoamea\SecPrj\Project.core\Teacher.cs
+D:\Facultate anul 3\DotNET\.NET_PROJECT-CristinaHoamea\SecPrj\Project.core\Interfaces\IStudentRepository.cs
+D:\Facultate anul 3\DotNET\.NET_PROJECT-CristinaHoamea\SecPrj\Project.core\Interfaces\ITeacherRepository.cs
+D:\Facultate anul 3\DotNET\.NET_PROJECT-CristinaHoamea\SecPrj\Project.core\Interfaces\TeacherRepository.cs
+D:\Facultate anul 3\DotNET\.NET_PROJECT-CristinaHoamea\SecPrj\Project.core\Properties\AssemblyInfo.cs

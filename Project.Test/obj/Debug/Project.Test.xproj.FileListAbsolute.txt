@@ -1,0 +1,3 @@
+D:\Facultate anul 3\DotNET\.NET_PROJECT-CristinaHoamea\SecPrj\Project.Test\bin\Project.Test.pdb
+D:\Facultate anul 3\DotNET\.NET_PROJECT-CristinaHoamea\SecPrj\Project.Test\obj\Debug\Project.Test.dll
+D:\Facultate anul 3\DotNET\.NET_PROJECT-CristinaHoamea\SecPrj\Project.Test\obj\Debug\Project.Test.pdb
