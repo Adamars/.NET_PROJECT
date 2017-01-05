@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0-*",
+  "testRunner": "mstest",
+
+  "dependencies": {
+    "BacheloretteManager.Core": "1.0.0-*",
+    "BacheloretteManager.Infrastucture": "1.0.0-*",
+    "FluentAssertions": "4.17.0",
+    "NETStandard.Library": "1.6.1",
+    "dotnet-test-mstest": "1.1.2-preview",
+    "Microsoft.CodeCoverage": "1.0.2",
+    "MSTest.TestFramework": "1.0.7-preview"
+  },
+
+  "frameworks": {
+    "netcoreapp1.0": {
+      "imports": "dnxcore50"
+    }
+  },
+
+  "runtimes": {
+    "win10-x64": ""
+  }
+}

@@ -1,0 +1,86 @@
+@model BacheloetteManager.Web.Models.AccountViewModels.RegisterStudentViewModel
+
+@{
+    Layout = "_LayoutLoginAndRegister";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>RegisterStudent</title>
+</head>
+<body>
+
+<form asp-action="RegisterStudent" method="post">
+    <div class="form-horizontal">
+        <h4>Inregistrare Student</h4>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Email" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Nume" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Nume" class="form-control" />
+                <span asp-validation-for="Nume" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Prenume" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Prenume" class="form-control" />
+                <span asp-validation-for="Prenume" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Password" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="ConfirmPassword" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="ConfirmPassword" class="form-control" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="MedAn1" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="MedAn1" class="form-control" />
+                <span asp-validation-for="MedAn1" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="MedAn2" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="MedAn2" class="form-control" />
+                <span asp-validation-for="MedAn2" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Preferinte" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Preferinte" class="form-control" />
+                <span asp-validation-for="Preferinte" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+</body>
+</html>
